@@ -70,8 +70,11 @@ Now App. is issuing to App.Store... <br />
 <img src="readme/mobile-app.jpg" width="240" /><br />
 
 #### Customize your self
-When you are iPhone user or wanna customize the App, <br />
-you can make it with importing [flutter souce code](https://github.com/koyaaaaaan/interval-cam-xv/tree/main/interval_cam_xv) with [Android Studio](https://developer.android.com/studio)
+When you are iPhone user or wanna customize the App, pleae follow below.<br />
+1. Download [Android Studio](https://developer.android.com/studio)
+2. Make flutter project.
+3. Copy Assets, lib, yaml in thie dir to your project [flutter souce code](https://github.com/koyaaaaaan/interval-cam-xv/tree/main/interval_cam_xv) 
+4. Do build. You may have the error. Fix it.
 
 #### How to use
 1. Keep push down tact switch to turn on the CAM.<br />
