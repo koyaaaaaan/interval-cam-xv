@@ -39,7 +39,7 @@ Assemble the circuit like below. <br />
 
 #### ESP32 Pin connections
 
-| Components   | ESP32 GPIO |  
+| Components   | ESP32      |  
 | ------------ | ---------- | 
 | CDS          | IO12       | 
 | Tact Button  | IO2        | 
