@@ -39,12 +39,12 @@ Assemble the circuit like below. <br />
 
 #### ESP32 Pin connections
 
-| Components   | ESP32      |  
-| ------------ | ---------- | 
-| CDS          | IO12       | 
-| Tact Button  | IO2        | 
-| Battery GND  | GND        | 
-| Battery 5.0V | 5.0V       | 
+| Components                 | ESP32      |  
+| -------------------------- | ---------- | 
+| CdS Photo Resistor         | IO12       | 
+| Tact Button                | IO2        | 
+| Battery GND                | GND        | 
+| Battery 5.0V               | 5.0V       | 
 
 #### Considering points
 - The registor value is depends on your CDS. ESP32 Analog read returns 0(0V) - 4095(5.0V).
@@ -76,7 +76,6 @@ you can make it with importing [flutter souce code](https://github.com/koyaaaaaa
 4. Change setting to Save it.
 5. Reset Interval-CAM-XV.
 
-#### Settings
 | Setting Name            | Explains                                                                        | 
 | ----------------------- | ------------------------------------------------------------------------------- | 
 | Camera Brightness       | Bigger value makes the image more brighter.                                     | 
