@@ -2,7 +2,7 @@
 If you are Japanese speaker, we have [README.ja.md](/README.ja.md) for you.
 
 # interval-cam-xv
-Interval Camera storing the capture images to SD or upload to Web, made out of ESP32-CAM<br />
+Interval Camera storing the capture images to SD or upload the images to Web, made out of ESP32-CAM<br />
 <br />
 <img src="readme/interval-cam-xv.jpg" width="360" />
 
