@@ -67,8 +67,11 @@ ESP32-CAMで作る、インターバルカメラです。SDカードやWifiを�
 <img src="readme/mobile-app.jpg" width="240" /><br />
 
 #### カスタムしたい場合
-もし、アプリをカスタムしたい、もしくはiPhoneユーザーの方の場合は、<br />
-[Android Studio](https://developer.android.com/studio)を使って [flutter souce code](https://github.com/koyaaaaaan/interval-cam-xv/tree/main/interval_cam_xv) をインポートすれば可能です。
+以下の方法で可能です。
+1. [Android Studio](https://developer.android.com/studio)をダウンロードします。
+2. flutter project`を作成します。
+3. [flutter souce code](https://github.com/koyaaaaaan/interval-cam-xv/tree/main/interval_cam_xv) ここにあるファイルをあなたのプロジェクトにコピーします。
+4. ビルドしてエラーが出たら直します。（Android SDKのバージョン等のエラーが出ると思います）
 
 #### 使い方
 1. カメラのタクトボタンを押しながらスイッチONします。フラッシュが３回転灯すれば設定モードになります。
@@ -88,6 +91,5 @@ ESP32-CAMで作る、インターバルカメラです。SDカードやWifiを�
 | Wifi SSID               | 接続するWifiのSSIDを入力します。     | 
 | Wifi PASS               | 接続するWifiのパスワードを入力します。   | 
 | URL of Post Image       | post.php のURLを入力します。       | 
-
 
 
