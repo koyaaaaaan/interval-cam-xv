@@ -1,3 +1,6 @@
+日本語話者のかたには [README.ja.md](/README.ja.md) を用意してあります。  
+If you are Japanese speaker, we have [README.ja.md](/README.ja.md) for you.
+
 # interval-cam-xv
 Interval Camera storing the capture images to SD or upload to Web, made out of ESP32-CAM<br />
 <br />
