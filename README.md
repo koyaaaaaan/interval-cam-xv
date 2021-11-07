@@ -1,5 +1,6 @@
 # interval-cam-xv
-Interval Camera storing to SD and Web made out of ESP32<br />
+Interval Camera storing the capture images to SD or upload to Web, made out of ESP32-CAM<br />
+<br />
 <img src="readme/interval-cam-xv.jpg" width="360" />
 
 #### Features
