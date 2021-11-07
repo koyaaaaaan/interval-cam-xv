@@ -71,7 +71,7 @@ you can make it with importing [flutter souce code](https://github.com/koyaaaaaa
 
 #### How to use
 1. Keep push down tact switch to turn on the CAM.<br />
-   Interval CAM flush 3 times to get into Bluetooth setting mode.<br />
+   Interval CAM flashes 3 times to get into Bluetooth setting mode.<br />
 2. Pair Interval-Cam-XV with your phone.
 3. Open App. to connect.
 4. Change setting to Save it.
