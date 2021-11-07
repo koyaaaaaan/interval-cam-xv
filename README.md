@@ -28,7 +28,8 @@ Interval Camera storing the capture images to SD or upload to Web, made out of E
 <br />
 
 ## ESP32-CAM setup
-Open "esp32-code" directory with ArduinoIDE to upload source code to ESP32-cam.<br />
+Open [esp32-code](https://github.com/koyaaaaaan/interval-cam-xv/tree/main/esp32-code) directory with ArduinoIDE to upload source code to ESP32-cam.<br />
+<br />
 <img src="readme/arduinoIDE.png" width="240" />
 <br />
 <br />
